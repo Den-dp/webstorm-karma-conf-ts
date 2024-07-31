@@ -1,0 +1,20 @@
+{
+  "name": "webstorm-karma-conf-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/karma": "^6.3.8",
+    "karma": "^6.4.3",
+    "karma-chrome-launcher": "^3.2.0",
+    "karma-jasmine": "^5.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3"
+  }
+}
